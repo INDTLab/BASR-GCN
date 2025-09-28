@@ -32,7 +32,7 @@ We provide data sets used in the paper: [MPEG-7](https://academictorrents.com/de
 
 
 ### Pre-Trained Models
-You can also download th pre-trained models on the BASR: [GoogleLink](https://drive.google.com/file/d/1D00quOYefmW_VoBnJVNjkezOa2w-aUWl/view?usp=drive_link)
+You can also download th pre-trained models on the BASR: [GoogleLink]([https://drive.google.com/file/d/1D00quOYefmW_VoBnJVNjkezOa2w-aUWl/view?usp=drive_link](https://drive.google.com/drive/folders/1CPAgSfr-GnP6MW6v0TtmvhfXM1-qieng?usp=sharing))
 
 ### Train
 You can use command like this:  
