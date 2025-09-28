@@ -7,6 +7,7 @@
 <!-- <a href="https://indtlab.github.io/projects/WRD-Net" ><img src="https://img.shields.io/badge/-WeightsFiles-blue.svg"></a> -->
 </p>
 # Architecture
+
 ![](./imgs/20250928201809.png)
 
 # Usage
