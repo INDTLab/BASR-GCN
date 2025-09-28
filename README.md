@@ -6,6 +6,7 @@
 <a href="https://INDTLab.github.io/projects/Packages/BASR-GCN/Data/BASR-GCN.pdf" ><img src="https://img.shields.io/badge/PDF-Paper-blueviolet.svg"></a>
 <!-- <a href="https://indtlab.github.io/projects/WRD-Net" ><img src="https://img.shields.io/badge/-WeightsFiles-blue.svg"></a> -->
 </p>
+
 # Architecture
 
 ![](./imgs/20250928201809.png)
