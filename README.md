@@ -25,7 +25,6 @@ conda activate BASR
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install numpy scikit-learn pillow opencv-python
-
 ```
 
 ### Data Sets
