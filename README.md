@@ -16,11 +16,11 @@
 1. Create a virtual environment named `BASR`:   
 ```copy
 conda create -n BASR python=3.8 -y
-   ```     
+```     
 2. Activate the new environment:  
-   ```copy
-   conda activate BASR
-   ```    
+```copy
+conda activate BASR
+```    
 3. Install dependencies:  
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
