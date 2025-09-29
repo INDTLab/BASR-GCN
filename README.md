@@ -40,6 +40,12 @@ You can use command like this:
 python train.py
 ```
 
+### Inference
+You can use command like this:  
+```copy
+python inference.py
+```
+
 # Citation
 ```
 @ARTICLE{zhao2025boundary,
